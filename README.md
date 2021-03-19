@@ -1,1 +1,1 @@
-# Esp_IA
+# Especialización de Inteligencia Artificial

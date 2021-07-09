@@ -1,1 +1,4 @@
-
+Algoritmos de búsqueda a ciegas: primero en profundidad, primero a lo ancho, costo uniforme
+Algoritmos de búsqueda heurística: best first, A*
+Algoritmos de juego: Minimax, Alfa-Beta
+Algoritmos genéticos
